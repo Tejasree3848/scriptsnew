@@ -1,0 +1,18 @@
+{
+    "lifeInsurance":[
+        {"id":101,"policyHolderName":"Ramesh","policyAmout":45000},
+        {"id":102,"policyHolderName":"suresh","policyAmout":55000},
+        {"id":103,"policyHolderName":"Magesh","policyAmout":60000},
+        {"id":104,"policyHolderName":"Ganesh","policyAmout":80000},
+        {"id":105,"policyHolderName":"Nitin","policyAmout":35000}
+    
+    ],
+    "advisors":[
+        {"id":201,"name":"kusuma","mobilenumber":999676},
+        {"id":202,"name":"roja","mobilenumber":565656},
+        {"id":203,"name":"Jass","mobilenumber":6057767000},
+        {"id":204,"name":"Rose","mobilenumber":343543},
+        {"id":205,"name":"vish","mobilenumber":35053534500}
+    
+    ]
+}

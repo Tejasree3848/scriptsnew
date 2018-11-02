@@ -1,0 +1,10 @@
+{
+    "prepaidplans":[
+        {"price":100,"validity":"28 days","voice":"Unlimited"},
+        {"price":200,"validity":"30 days","voice":"Unlimited"},
+        {"price":300,"validity":"50 days","voice":"Unlimited"},
+        {"price":400,"validity":"80 days","voice":"Unlimited"},
+        {"price":500,"validity":"100 days","voice":"Unlimited"}
+    
+    ]
+}
